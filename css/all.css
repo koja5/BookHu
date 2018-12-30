@@ -1,6 +1,6 @@
 .fa,
-.fas,
-.fas,
+.fal,
+.fal,
 .fal,
 .fab {
   -moz-osx-font-smoothing: grayscale;
@@ -82,15 +82,15 @@
   float: right; }
 
 .fa.fa-pull-left,
-.fas.fa-pull-left,
-.fas.fa-pull-left,
+.fal.fa-pull-left,
+.fal.fa-pull-left,
 .fal.fa-pull-left,
 .fab.fa-pull-left {
   margin-right: .3em; }
 
 .fa.fa-pull-right,
-.fas.fa-pull-right,
-.fas.fa-pull-right,
+.fal.fa-pull-right,
+.fal.fa-pull-right,
 .fal.fa-pull-right,
 .fab.fa-pull-right {
   margin-left: .3em; }
@@ -1428,10 +1428,10 @@ readers do not read off random characters that represent icons */
 .fa-fantasy-flight-games:before {
   content: "\f6dc"; }
 
-.fa-fast-backward:before {
+.fa-falt-backward:before {
   content: "\f049"; }
 
-.fa-fast-forward:before {
+.fa-falt-forward:before {
   content: "\f050"; }
 
 .fa-fax:before {
@@ -2697,7 +2697,7 @@ readers do not read off random characters that represent icons */
 .fa-passport:before {
   content: "\f5ab"; }
 
-.fa-pastafasianism:before {
+.fa-pastafalianism:before {
   content: "\f67b"; }
 
 .fa-paste:before {
@@ -3087,7 +3087,7 @@ readers do not read off random characters that represent icons */
 .fa-sad-tear:before {
   content: "\f5b4"; }
 
-.fa-safasi:before {
+.fa-safali:before {
   content: "\f267"; }
 
 .fa-sass:before {
@@ -3177,7 +3177,7 @@ readers do not read off random characters that represent icons */
 .fa-ship:before {
   content: "\f21a"; }
 
-.fa-shipping-fast:before {
+.fa-shipping-falt:before {
   content: "\f48b"; }
 
 .fa-shirtsinbulk:before {
@@ -4206,7 +4206,7 @@ readers do not read off random characters that represent icons */
   src: url("../webfonts/fa-regular-400.eot");
   src: url("../webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400.woff2") format("woff2"), url("../webfonts/fa-regular-400.woff") format("woff"), url("../webfonts/fa-regular-400.ttf") format("truetype"), url("../webfonts/fa-regular-400.svg#fontawesome") format("svg"); }
 
-.fas {
+.fal {
   font-family: 'Font Awesome 5 Free';
   font-weight: 400; }
 @font-face {
@@ -4217,6 +4217,6 @@ readers do not read off random characters that represent icons */
   src: url("../webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-solid-900.woff") format("woff"), url("../webfonts/fa-solid-900.ttf") format("truetype"), url("../webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
 
 .fa,
-.fas {
+.fal {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900; }

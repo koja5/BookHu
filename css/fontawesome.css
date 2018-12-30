@@ -1,6 +1,6 @@
 .fa,
-.fas,
-.fas,
+.fal,
+.fal,
 .fal,
 .fab {
   -moz-osx-font-smoothing: grayscale;
@@ -82,15 +82,15 @@
   float: right; }
 
 .fa.fa-pull-left,
-.fas.fa-pull-left,
-.fas.fa-pull-left,
+.fal.fa-pull-left,
+.fal.fa-pull-left,
 .fal.fa-pull-left,
 .fab.fa-pull-left {
   margin-right: .3em; }
 
 .fa.fa-pull-right,
-.fas.fa-pull-right,
-.fas.fa-pull-right,
+.fal.fa-pull-right,
+.fal.fa-pull-right,
 .fal.fa-pull-right,
 .fab.fa-pull-right {
   margin-left: .3em; }
@@ -1428,10 +1428,10 @@ readers do not read off random characters that represent icons */
 .fa-fantasy-flight-games:before {
   content: "\f6dc"; }
 
-.fa-fast-backward:before {
+.fa-falt-backward:before {
   content: "\f049"; }
 
-.fa-fast-forward:before {
+.fa-falt-forward:before {
   content: "\f050"; }
 
 .fa-fax:before {
@@ -2697,7 +2697,7 @@ readers do not read off random characters that represent icons */
 .fa-passport:before {
   content: "\f5ab"; }
 
-.fa-pastafasianism:before {
+.fa-pastafalianism:before {
   content: "\f67b"; }
 
 .fa-paste:before {
@@ -3087,7 +3087,7 @@ readers do not read off random characters that represent icons */
 .fa-sad-tear:before {
   content: "\f5b4"; }
 
-.fa-safasi:before {
+.fa-safali:before {
   content: "\f267"; }
 
 .fa-sass:before {
@@ -3177,7 +3177,7 @@ readers do not read off random characters that represent icons */
 .fa-ship:before {
   content: "\f21a"; }
 
-.fa-shipping-fast:before {
+.fa-shipping-falt:before {
   content: "\f48b"; }
 
 .fa-shirtsinbulk:before {

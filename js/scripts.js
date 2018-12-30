@@ -1076,10 +1076,10 @@ function cardRaining() {
         sts = $(".section-title-separator span");
     cr.each(function (cr) {
         var starcount = $(this).attr("data-starrating");
-        $("<i class='fas fa-star'></i>").duplicate(starcount).prependTo(this);
+        $("<i class='fal fa-star'></i>").duplicate(starcount).prependTo(this);
     });
     sts.each(function (sts) {
-        $("<i class='fas fa-star'></i>").duplicate(3).prependTo(this);
+        $("<i class='fal fa-star'></i>").duplicate(3).prependTo(this);
     })
 }
 cardRaining();
